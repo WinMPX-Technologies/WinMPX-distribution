@@ -1,0 +1,53 @@
+WINMPX TECHNOLOGIES - END-USER LICENSE AGREEMENT (EULA)
+=======================================================
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, the "Licensee") and [YOUR FULL LEGAL NAME] trading as WinMPX Technologies (the "Licensor").
+
+By installing, copying, or otherwise using the software product "WinMPX" (the "Software"), you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software.
+
+1. GRANT OF LICENSE
+WinMPX Technologies grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the Software solely for your purposes strictly in accordance with the terms of this Agreement.
+
+   1.1 STANDARD / FREE VERSION
+   If you are using the free version of the Software, you are granted a license for PERSONAL, NON-COMMERCIAL USE only. You may not use the Software for commercial profit or professional services without upgrading to a Pro license.
+
+   1.2 PRO VERSION
+   If you have purchased a "Pro" license, you are granted the rights to use the Software for COMMERCIAL purposes. The Pro license also includes:
+   - Removal of advertisements (if applicable).
+   - Activation of all premium features declared at the time of purchase.
+   - Eligibility for free updates for the specific major version purchased (e.g., v2.x).
+   
+   WinMPX Technologies does not guarantee that updates will be released on any specific schedule.
+
+2. RESTRICTIONS
+You agree not to, and you will not permit others to:
+   a) Decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the Software.
+   b) Modify, adapt, improve, or create derivative works from the Software.
+   c) Violate any applicable laws, rules, or regulations in connection with your access or use of the Software.
+   d) Remove, alter, or obscure any proprietary notice (including copyright or trademark notices) of WinMPX Technologies or its affiliates.
+
+3. INTELLECTUAL PROPERTY
+The Software, including all intellectual property rights therein, is the property of WinMPX Technologies. The Software is licensed, not sold. This EULA does not grant you any rights to trademarks or service marks of WinMPX Technologies.
+
+4. USER RESPONSIBILITY FOR CONTENT
+The Software allows the downloading and processing of media files. WinMPX Technologies claims no intellectual property rights over the content you download or process.
+   a) You are solely responsible for ensuring you have the legal right to download, modify, and use any media content processed by the Software.
+   b) WinMPX Technologies shall not be held liable for any copyright infringement or misuse of media performed by the user.
+
+5. PRIVACY AND TELEMETRY
+   5.1 Personal Data. WinMPX Technologies respects your privacy. We do not sell your personal data to third parties.
+   5.2 Anonymous Usage Data. To improve the stability and performance of the Software, the application may collect anonymous technical telemetry (e.g., crash reports, OS version, successful download counts). This data is aggregated and cannot be used to personally identify you.
+
+6. TERMINATION
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from WinMPX Technologies if you fail to comply with any term(s) of this Agreement. Upon termination of this Agreement, you shall cease all use of the Software and delete all copies of the Software from your mobile device or computer.
+
+7. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, WINMPX TECHNOLOGIES EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+8. LIMITATION OF LIABILITY
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WINMPX TECHNOLOGIES BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, OR OTHER INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. GOVERNING LAW AND JURISDICTION
+This Agreement will be governed by and interpreted in accordance with the laws of Peru. Any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in Lima, Peru, and the parties hereby consent to the personal jurisdiction and venue therein.
+
+Copyright (c) 2026 WinMPX Technologies. All rights reserved.
