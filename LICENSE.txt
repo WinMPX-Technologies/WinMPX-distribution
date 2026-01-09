@@ -1,7 +1,7 @@
 WINMPX TECHNOLOGIES - END-USER LICENSE AGREEMENT (EULA)
 =======================================================
 
-This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, the "Licensee") and [YOUR FULL LEGAL NAME] trading as WinMPX Technologies (the "Licensor").
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, the "Licensee") and Jorge Alfredo Sarmiento Winands trading as WinMPX Technologies (the "Licensor").
 
 By installing, copying, or otherwise using the software product "WinMPX" (the "Software"), you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software.
 
@@ -49,5 +49,6 @@ TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WINMPX TECH
 
 9. GOVERNING LAW AND JURISDICTION
 This Agreement will be governed by and interpreted in accordance with the laws of Peru. Any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in Lima, Peru, and the parties hereby consent to the personal jurisdiction and venue therein.
+
 
 Copyright (c) 2026 WinMPX Technologies. All rights reserved.
