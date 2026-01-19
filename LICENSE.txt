@@ -1,54 +1,74 @@
-WINMPX TECHNOLOGIES - END-USER LICENSE AGREEMENT (EULA)
-=======================================================
+Winands Labs - END-USER LICENSE AGREEMENT
 
-This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, the "Licensee") and Jorge Alfredo Sarmiento Winands trading as WinMPX Technologies (the "Licensor").
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity, the "Licensee") and Winands Labs (the "Licensor").
 
 By installing, copying, or otherwise using the software product "WinMPX" (the "Software"), you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the Software.
 
 1. GRANT OF LICENSE
-WinMPX Technologies grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the Software solely for your purposes strictly in accordance with the terms of this Agreement.
 
-   1.1 STANDARD / FREE VERSION
-   If you are using the free version of the Software, you are granted a license for PERSONAL, NON-COMMERCIAL USE only. You may not use the Software for commercial profit or professional services without upgrading to a Pro license.
+Winands Labs grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the Software for both PERSONAL and COMMERCIAL purposes strictly in accordance with the terms of this Agreement.
 
-   1.2 PRO VERSION
-   If you have purchased a "Pro" license, you are granted the rights to use the Software for COMMERCIAL purposes. The Pro license also includes:
-   - Removal of advertisements (if applicable).
-   - Activation of all premium features declared at the time of purchase.
-   - Eligibility for free updates for the specific major version purchased (e.g., v2.x).
-   
-   WinMPX Technologies does not guarantee that updates will be released on any specific schedule.
+1.1 FREEWARE LICENSE The Software is provided as Freeware. You are granted full access to all features without charge. There are no hidden fees, subscriptions, or feature restrictions.
 
-2. RESTRICTIONS
+No Ads: We do not display third-party advertisements.
+Full Features: All resolution and format support is unlocked by default.
+Updates: You are eligible for free updates as they become available.
+2. INTELLECTUAL PROPERTY
+
+The Software, including all intellectual property rights therein, is the property of WinMPX Technologies. The Software is licensed, not sold. This EULA does not grant you any rights to trademarks or service marks of Winands Labs.
+
+3. RESTRICTIONS
+
 You agree not to, and you will not permit others to:
-   a) Decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the Software.
-   b) Modify, adapt, improve, or create derivative works from the Software.
-   c) Violate any applicable laws, rules, or regulations in connection with your access or use of the Software.
-   d) Remove, alter, or obscure any proprietary notice (including copyright or trademark notices) of WinMPX Technologies or its affiliates.
 
-3. INTELLECTUAL PROPERTY
-The Software, including all intellectual property rights therein, is the property of WinMPX Technologies. The Software is licensed, not sold. This EULA does not grant you any rights to trademarks or service marks of WinMPX Technologies.
+a) Decompile, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the Software.
+b) Modify, adapt, improve, or create derivative works from the Software.
+c) Remove, alter, or obscure any proprietary notice (including copyright or trademark notices) of Winands Labs.
+d) Use the Software to distribute content commercially without the copyright holder's permission.
+e) Use the Software to bypass, modify, defeat, or circumvent any Digital Rights Management (DRM) encryption or content protection measures used by streaming services.
+4. COPYRIGHT COMPLIANCE & DATA USAGE
 
-4. USER RESPONSIBILITY FOR CONTENT
-The Software allows the downloading and processing of media files. WinMPX Technologies claims no intellectual property rights over the content you download or process.
-   a) You are solely responsible for ensuring you have the legal right to download, modify, and use any media content processed by the Software.
-   b) WinMPX Technologies shall not be held liable for any copyright infringement or misuse of media performed by the user.
+4.1 NEUTRAL TOOL. You acknowledge that WinMPX is a neutral technical tool (similar to a web browser) that processes data at your request.
+4.2 INTENDED USE. The Software is intended strictly for "Time-Shifting" (recording for later viewing), "Format Shifting," and creating personal, offline backups of content you have the legal right to access.
+4.3 USER RESPONSIBILITY. You are solely responsible for checking the copyright status of the media you download. Winands Labs claims no intellectual property rights over the content you process and shall not be held liable for any copyright infringement committed by you.
+5. THIRD-PARTY PLATFORMS & RISKS
 
-5. PRIVACY AND TELEMETRY
-   5.1 Personal Data. WinMPX Technologies respects your privacy. We do not sell your personal data to third parties.
-   5.2 Anonymous Usage Data. To improve the stability and performance of the Software, the application may collect anonymous technical telemetry (e.g., crash reports, OS version, successful download counts). This data is aggregated and cannot be used to personally identify you.
+The Software interacts with third-party platforms (e.g., YouTube). You acknowledge that:
 
-6. TERMINATION
-This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from WinMPX Technologies if you fail to comply with any term(s) of this Agreement. Upon termination of this Agreement, you shall cease all use of the Software and delete all copies of the Software from your mobile device or computer.
+a) Your use of the Software may violate the Terms of Service of these third-party platforms.
+b) Winands Labs is not affiliated with, authorized by, or endorsed by Google LLC, YouTube, or any other platform.
+c) You assume all risks associated with your account status on these platforms (e.g., IP bans or account suspension) resulting from the use of this Software.
+d) The functionality of the Software depends on third-party services which may change their technical measures at any time. The Software is provided "AS-IS" with no guarantee of continued availability for specific websites.
+6. OPEN SOURCE ACKNOWLEDGMENTS
 
-7. DISCLAIMER OF WARRANTIES
-THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, WINMPX TECHNOLOGIES EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+This Software utilizes unmodified libraries and binaries from open-source projects, including but not limited to:
 
-8. LIMITATION OF LIABILITY
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WINMPX TECHNOLOGIES BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, OR OTHER INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+yt-dlp (The Unlicense / Public Domain)
+FFmpeg (Licensed under LGPL v2.1+)
+These components remain the property of their respective owners. Winands Labs does not claim ownership of these open-source binaries.
 
-9. GOVERNING LAW AND JURISDICTION
+7. PRIVACY AND TELEMETRY
+
+7.1 Personal Data. Winands Labs respects your privacy.  We do not collect your personal data.
+7.2 Anonymous Usage Data. To improve stability, the application may collect anonymous technical telemetry (e.g., crash reports, OS version, successful download counts). This data is aggregated and cannot be used to personally identify you.
+8. TERMINATION
+
+Your rights under this Agreement will terminate automatically without notice if you fail to comply with any term(s) of this Agreement. Upon termination, you shall cease all use of the Software and delete all copies.
+
+9. INDEMNIFICATION
+
+You agree to indemnify, defend, and hold harmless Winands Labs and its affiliates from any and all claims, liabilities, damages, and expenses (including legal fees) arising from your misuse of the Software or your violation of any third-party rights, including copyright infringement.
+
+10. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, Winands Labs EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+11. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL Winands Labs BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, OR OTHER INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+12. GOVERNING LAW AND JURISDICTION
+
 This Agreement will be governed by and interpreted in accordance with the laws of Peru. Any legal action or proceeding arising under this Agreement will be brought exclusively in the federal or state courts located in Lima, Peru, and the parties hereby consent to the personal jurisdiction and venue therein.
 
-
-Copyright (c) 2026 WinMPX Technologies. All rights reserved.
+Copyright (c) 2026 Winands Labs. All rights reserved.
