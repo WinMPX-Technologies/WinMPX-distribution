@@ -1,5 +1,13 @@
 {
-  "version": "2.11",
+  "version": "2.12",
   "download_url": "https://github.com/WinandsLabs/WinMPX-distribution/releases/latest",
-  "changelog": "Critical fix for Dark Theme and improved merging speed."
+  "changelog": [
+    "Critical fix for 403 error.",
+    "yt-dlp engine updated.",
+    "Upgreded download queue from 10 to 100.",
+    "Added download playlist capability.",
+    "Added settings menu.",
+    "Added report bug/error menu option.",
+    "Added change download folder option."
+  ]
 }
